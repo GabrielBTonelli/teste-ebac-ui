@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 22
+    },
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "S",
+        "cor": "Black",
+        "quantidade": 8
+    },
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "L",
+        "cor": "Purple",
+        "quantidade": 4
+    }
+]
